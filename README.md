@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @Nyxiam (JKelt)
-- 👀 I’m interested in Web Design and Development
-- 🌱 I’m currently learning Web Development through the Odin Project and freeCodeCamp
-- 💞️ I’m looking to collaborate on anything!
-- 📫 How to reach me: Discord @JKelt#4812
+- 👋 Hi, I’m @Nyxiam
+- 👀 I’m interested in
+- 🌱 I’m currently learning
+- 💞️ I’m looking to collaborate on 
+- 📫 How to reach me:
 
 <!---
 Nyxiam/Nyxiam is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
